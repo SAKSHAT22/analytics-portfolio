@@ -1,2 +1,3 @@
-Tableau Projects
-This folder contains all my Power BI dashboards and reports.
+# Tableau Projects
+
+This folder contains my Tableau dashboards and learning projects.
